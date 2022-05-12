@@ -1,3 +1,7 @@
+.container {
+    margin-bottom: 80px;
+}
+
 .orange-bg {
     background-color: rgb(254, 234, 233);
 }
@@ -11,8 +15,14 @@
     color: beige;
     margin: 5px;
     padding: 5px;
+    cursor: pointer;
 }
 
 .price {
     color: rgb(219, 15, 15);
+}
+
+.carousel-item {
+    margin-left: 10px;
+    padding: 30px, 50px;
 }
