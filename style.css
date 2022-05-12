@@ -1,0 +1,18 @@
+.orange-bg {
+    background-color: rgb(254, 234, 233);
+}
+
+.order {
+    height: 8%;
+    width: 15%;
+    border: 5px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    color: beige;
+    margin: 5px;
+    padding: 5px;
+}
+
+.price {
+    color: rgb(219, 15, 15);
+}
