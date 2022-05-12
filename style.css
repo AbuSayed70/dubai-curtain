@@ -3,13 +3,14 @@
 }
 
 .orange-bg {
+    width: 89.0%;
+    margin-left: 5.5%;
     background-color: rgb(254, 234, 233);
+    border-radius: 10px;
 }
 
 .order {
-    height: 8%;
-    width: 15%;
-    border: 5px;
+
     background-color: cadetblue;
     border-radius: 5px;
     color: beige;
@@ -23,6 +24,47 @@
 }
 
 .carousel-item {
-    margin-left: 10px;
+    margin: 10px;
     padding: 30px, 50px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-color: rgb(216, 122, 112);
+}
+
+.cat2 {
+    background-color: rgb(125, 113, 205);
+}
+
+.cat3 {
+    background-color: rgb(111, 171, 173);
+}
+
+.categories img {
+    width: 100px;
+}
+
+.categories {
+    margin-top: 50px;
+}
+
+.shoes {
+    width: 89.5%;
+    margin-left: 5%;
+}
+
+.shoes1 {
+    margin-left: 60px;
+}
+
+.card {
+    box-shadow: 5px 5px 10px lightgray;
 }
